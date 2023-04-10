@@ -1,8 +1,4 @@
-# Online Eyewear Shop v1.0 has SQL injection
-
 BUG_Author:Gear-D
-
-Website source address:https://www.sourcecodester.com/php/16089/online-eyewear-shop-website-using-php-and-mysql-free-download.html
 
 Vulnerability File: /oews/admin/inventory/manage_stock.php
 
